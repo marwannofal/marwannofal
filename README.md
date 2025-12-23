@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwannofal" alt="marwannofal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://marwannofal.github.io/marwan_portfolio/](https://marwannofal.github.io/marwan_portfolio/)
+- 👨‍💻 All of my projects are available at [https://marwannofal.info](https://marwannofal.info)
 
 - 📫 How to reach me **marwannofal64@gmail.com**
 
