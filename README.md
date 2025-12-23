@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwannofal&label=Profile%20views&color=0e75b6&style=flat" alt="marwannofal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwannofal" alt="marwannofal" /></a> </p>
+<p align="left"> <a href="https://marwannofal.info"><img src="https://marwannofal.info" alt="marwannofal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://marwannofal.info](https://marwannofal.info)
 
